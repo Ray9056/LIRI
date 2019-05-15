@@ -1,0 +1,76 @@
+
+Artist(s): Juice WRLD
+ Song Name: Empty
+ Preview Url: null
+ Album Name: Death Race For Love
+
+
+Artist(s): Hozier
+ Song Name: Take Me to Church
+ Preview Url: https://p.scdn.co/mp3-preview/cdbb37ee18245800e331528fd781bac388da9254?cid=7def702af740477ea0951de763bbe345
+ Album Name: Hozier (Expanded Edition)
+
+
+Tweet: Tweeeeeet
+  Created On:Tue Aug 15 23:09:19 +0000 2017
+
+
+Tweet: Node.js
+  Created On:Tue Aug 15 23:08:25 +0000 2017
+
+
+Tweet: Tweet 3
+  Created On:Tue Aug 15 23:08:16 +0000 2017
+
+
+Tweet: Tweet 2
+  Created On:Tue Aug 15 23:08:09 +0000 2017
+
+
+Tweet: Tweet 1 - LIRI works
+  Created On:Tue Aug 15 23:07:52 +0000 2017
+
+
+Title of the movie: John Wick
+ Year the movie came out: 2014
+ IMDB Rating of the movie: 7.3
+ Country where the movie was produced: China, USA
+ Language of the movie:  English, Russian, Hungarian
+ Plot of the movie:  An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him.
+ Actors in the movie:  Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/john_wick/
+
+
+Title of the movie: John Wick
+ Year the movie came out: 2014
+ IMDB Rating of the movie: 7.3
+ Country where the movie was produced: China, USA
+ Language of the movie:  English, Russian, Hungarian
+ Plot of the movie:  An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him.
+ Actors in the movie:  Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/john_wick/
+
+
+Artist(s): Logic
+ Song Name: Homicide
+ Preview Url: null
+ Album Name: Homicide
+
+
+Artist(s): J. Cole
+ Song Name: KOD
+ Preview Url: null
+ Album Name: KOD
+
+
+Artist(s): J. Cole
+ Song Name: No Role Modelz
+ Preview Url: https://p.scdn.co/mp3-preview/ef67372f58306c52484caadd120b0455e3fe2e6d?cid=7def702af740477ea0951de763bbe345
+ Album Name: 2014 Forest Hills Drive
+
+
+Artist(s): J. Cole
+ Song Name: No Role Modelz
+ Preview Url: https://p.scdn.co/mp3-preview/ef67372f58306c52484caadd120b0455e3fe2e6d?cid=7def702af740477ea0951de763bbe345
+ Album Name: 2014 Forest Hills Drive
+
