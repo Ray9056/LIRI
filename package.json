@@ -2,7 +2,7 @@
   "name": "liri-bot",
   "version": "1.0.0",
   "description": "npm packages",
-  "main": "keys.js",
+  "main": "liri.js",
   "dependencies": {
     "axios": "^0.18.0",
     "core-util-is": "^1.0.2",
