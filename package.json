@@ -1,0 +1,33 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "npm packages",
+  "main": "keys.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "core-util-is": "^1.0.2",
+    "dotenv": "^8.0.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jernical/LIRI-Bot.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Suraj A Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jernical/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/Jernical/LIRI-Bot#readme"
+}
