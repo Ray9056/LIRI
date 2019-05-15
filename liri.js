@@ -53,7 +53,7 @@ switch (command) {
 
 //create function for twitter command
 function twitterLog() {
-    var params = { screen_name: 'artprofi_liri', count: 20 };
+    var params = { screen_name: 'JerneTV', count: 20 };
     client.get('statuses/user_timeline', params, function(error, tweets, response) {
         if (!error) {
             for (i = 0; i < tweets.length; i++) {

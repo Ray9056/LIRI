@@ -1,10 +1,10 @@
-console.log('This is loaded');
+console.log('Liri is Searching...');
 
 exports.twitterKeys = {
-    consumer_key: 'YUB2C8zsj57FnrMPETi0SpCSH',
-    consumer_secret: 'HXddPWriRm8pk9YldVEce2XkBJBU92SzEcZoxETwl9RZ2iY3cf',
-    access_token_key: '897595169897426948-Xz8jbcbL9hqor242hikeDzkFGFyZ5ej',
-    access_token_secret: 'xgtt3v70j96Bltd7OMV1zfE22kOc6zJtXMFrvKJkhErGt',
+    consumer_key: 'WLN2HhKkTV9l2OfHBJqETG5Qh',
+    consumer_secret: 'DoJMlW0X4GEw17nHV5WgWVNzCC8mLkQZSg79GRUVbBxwensueg',
+    access_token_key: '1478175510-CLh55PFB0k9ZLLhqpKN2h4y4q6wVZjZF9hfDeWY',
+    access_token_secret: 'gLld4zAWJishQmY3zGsQzJjdLU6KiC3SPFYPIOtIQs7cL',
 }
 
 exports.spotifyKeys = {

@@ -10,27 +10,6 @@ Artist(s): Hozier
  Preview Url: https://p.scdn.co/mp3-preview/cdbb37ee18245800e331528fd781bac388da9254?cid=7def702af740477ea0951de763bbe345
  Album Name: Hozier (Expanded Edition)
 
-
-Tweet: Tweeeeeet
-  Created On:Tue Aug 15 23:09:19 +0000 2017
-
-
-Tweet: Node.js
-  Created On:Tue Aug 15 23:08:25 +0000 2017
-
-
-Tweet: Tweet 3
-  Created On:Tue Aug 15 23:08:16 +0000 2017
-
-
-Tweet: Tweet 2
-  Created On:Tue Aug 15 23:08:09 +0000 2017
-
-
-Tweet: Tweet 1 - LIRI works
-  Created On:Tue Aug 15 23:07:52 +0000 2017
-
-
 Title of the movie: John Wick
  Year the movie came out: 2014
  IMDB Rating of the movie: 7.3
@@ -73,4 +52,207 @@ Artist(s): J. Cole
  Song Name: No Role Modelz
  Preview Url: https://p.scdn.co/mp3-preview/ef67372f58306c52484caadd120b0455e3fe2e6d?cid=7def702af740477ea0951de763bbe345
  Album Name: 2014 Forest Hills Drive
+
+
+Artist(s): Juice WRLD
+ Song Name: Empty
+ Preview Url: null
+ Album Name: Death Race For Love
+
+Tweet: RT @DanyaleTayla: I really hope that atleast the casuals enjoy this.
+  Created On:Thu May 09 20:56:31 +0000 2019
+
+
+Tweet: @sepehrlogic Don’t worry I got u.
+  Created On:Wed Apr 10 17:33:28 +0000 2019
+
+
+Tweet: RT @Nadeshot: — HOT TAKE —
+
+Kid Cudi - Soundtrack 2 My Life might be one of the best hip hop songs ever made.
+
+— END TAKE —
+  Created On:Tue Feb 19 02:06:13 +0000 2019
+
+
+Tweet: RT @VersaceBoyEnt: Drake finna steal this crackhead flow 😂 this nigga gotta HIT on god 🔥🔥 https://t.co/gqLJOEyqIu
+  Created On:Sat Jan 26 08:20:23 +0000 2019
+
+
+Tweet: RT @primekfc: WE NEED THIS RETWEET https://t.co/N48tRid5CT
+  Created On:Wed Jan 16 20:39:44 +0000 2019
+
+
+Tweet: I liked a @YouTube video https://t.co/omV2lQ9ML5 Black Desert Online - Massive PVP -1000000 Karma
+  Created On:Sat Jan 05 04:32:41 +0000 2019
+
+
+Tweet: @MediaAoC https://t.co/5bpZfq8JR4
+  Created On:Wed Dec 19 06:17:25 +0000 2018
+
+
+Tweet: @MediaAoC Still better than Bless.
+  Created On:Wed Dec 19 05:55:52 +0000 2018
+
+
+Tweet: RT @LandonLain: I hope my parents don’t see this 😂 https://t.co/Yfvw5XGeA9
+  Created On:Wed Dec 19 05:27:05 +0000 2018
+
+
+Tweet: Insane upgrade...Great work 👍🏽 @Ninja @finalmouse https://t.co/WYbmtdbfJU
+  Created On:Mon Dec 17 17:52:12 +0000 2018
+
+
+Tweet: I liked a @YouTube video https://t.co/7IlBYXAPkU Airsoft CHEATERS Get Instant Karma (Shot in the B*LLS &amp; Full-Auto Minigun)
+  Created On:Mon Dec 10 08:20:27 +0000 2018
+
+
+Tweet: @finalmouse Can I get an answer @finalmouse support?
+  Created On:Sat Dec 01 22:34:31 +0000 2018
+
+
+Tweet: @finalmouse Is Finalmouse support offline?
+  Created On:Sat Dec 01 18:20:26 +0000 2018
+
+
+Tweet: RT @finalmouse: “Valley of the Air” – Based on a true story. 
+
+This is the story of how we discovered the truth alongside @ninja and finall…
+  Created On:Tue Nov 27 19:09:19 +0000 2018
+
+
+Tweet: RT @tboz901: *wakes up*
+
+My brain:
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do…
+  Created On:Sun Nov 18 16:03:43 +0000 2018
+
+
+Tweet: RT @TheNotoriousMMA: You little fucking daisy
+  Created On:Sat Nov 17 23:26:53 +0000 2018
+
+
+Tweet: RT @Yung_Crutch: To the homie Stan Lee😒 https://t.co/OQYTSkeaHE
+  Created On:Wed Nov 14 21:46:24 +0000 2018
+
+
+Tweet: RT @dakotaz: The only thing @FortniteGame is now adays is basically 3rd party, traps, gliders &amp; skins 24/7
+
+Unless you're hiding in duo/squ…
+  Created On:Wed Nov 14 00:10:20 +0000 2018
+
+
+Tweet: RT @JuiceWorlddd: From the unknown 💔🤕 https://t.co/wErR9k0gON
+  Created On:Tue Nov 13 18:18:22 +0000 2018
+
+
+Tweet: RT @TMZ: #BREAKING: Legendary Comic-Book Writer, Publisher and Film Producer Stan Lee Has Died. R.I.P. https://t.co/SXjlavNILF
+  Created On:Mon Nov 12 19:44:58 +0000 2018
+
+
+Tweet: Test 2 UNC.
+  Created On:Wed May 15 20:29:04 +0000 2019
+
+
+Tweet: Test for Liri Bot.
+  Created On:Wed May 15 20:28:48 +0000 2019
+
+
+Tweet: RT @DanyaleTayla: I really hope that atleast the casuals enjoy this.
+  Created On:Thu May 09 20:56:31 +0000 2019
+
+
+Tweet: @sepehrlogic Don’t worry I got u.
+  Created On:Wed Apr 10 17:33:28 +0000 2019
+
+
+Tweet: RT @Nadeshot: — HOT TAKE —
+
+Kid Cudi - Soundtrack 2 My Life might be one of the best hip hop songs ever made.
+
+— END TAKE —
+  Created On:Tue Feb 19 02:06:13 +0000 2019
+
+
+Tweet: RT @VersaceBoyEnt: Drake finna steal this crackhead flow 😂 this nigga gotta HIT on god 🔥🔥 https://t.co/gqLJOEyqIu
+  Created On:Sat Jan 26 08:20:23 +0000 2019
+
+
+Tweet: RT @primekfc: WE NEED THIS RETWEET https://t.co/N48tRid5CT
+  Created On:Wed Jan 16 20:39:44 +0000 2019
+
+
+Tweet: I liked a @YouTube video https://t.co/omV2lQ9ML5 Black Desert Online - Massive PVP -1000000 Karma
+  Created On:Sat Jan 05 04:32:41 +0000 2019
+
+
+Tweet: @MediaAoC https://t.co/5bpZfq8JR4
+  Created On:Wed Dec 19 06:17:25 +0000 2018
+
+
+Tweet: @MediaAoC Still better than Bless.
+  Created On:Wed Dec 19 05:55:52 +0000 2018
+
+
+Tweet: RT @LandonLain: I hope my parents don’t see this 😂 https://t.co/Yfvw5XGeA9
+  Created On:Wed Dec 19 05:27:05 +0000 2018
+
+
+Tweet: Insane upgrade...Great work 👍🏽 @Ninja @finalmouse https://t.co/WYbmtdbfJU
+  Created On:Mon Dec 17 17:52:12 +0000 2018
+
+
+Tweet: I liked a @YouTube video https://t.co/7IlBYXAPkU Airsoft CHEATERS Get Instant Karma (Shot in the B*LLS &amp; Full-Auto Minigun)
+  Created On:Mon Dec 10 08:20:27 +0000 2018
+
+
+Tweet: @finalmouse Can I get an answer @finalmouse support?
+  Created On:Sat Dec 01 22:34:31 +0000 2018
+
+
+Tweet: @finalmouse Is Finalmouse support offline?
+  Created On:Sat Dec 01 18:20:26 +0000 2018
+
+
+Tweet: RT @finalmouse: “Valley of the Air” – Based on a true story. 
+
+This is the story of how we discovered the truth alongside @ninja and finall…
+  Created On:Tue Nov 27 19:09:19 +0000 2018
+
+
+Tweet: RT @tboz901: *wakes up*
+
+My brain:
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do it
+Don’t do…
+  Created On:Sun Nov 18 16:03:43 +0000 2018
+
+
+Tweet: RT @TheNotoriousMMA: You little fucking daisy
+  Created On:Sat Nov 17 23:26:53 +0000 2018
+
+
+Tweet: RT @Yung_Crutch: To the homie Stan Lee😒 https://t.co/OQYTSkeaHE
+  Created On:Wed Nov 14 21:46:24 +0000 2018
+
+
+Tweet: RT @dakotaz: The only thing @FortniteGame is now adays is basically 3rd party, traps, gliders &amp; skins 24/7
+
+Unless you're hiding in duo/squ…
+  Created On:Wed Nov 14 00:10:20 +0000 2018
 
