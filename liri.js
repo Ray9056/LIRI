@@ -28,7 +28,7 @@ switch (command) {
         var song = '';
         song = process.argv[3];
         if (process.argv[3] === undefined) {
-            var song = "The Sign Ace of Base"
+            var song = "Billie Jean"
         }
         spotifyLog(song);
         break;
@@ -38,7 +38,7 @@ switch (command) {
         var movieName = restOfArgs.join(" ");
         console.log(restOfArgs);
         if (movieName === "") {
-            movieName = "Mr. Nobody"
+            movieName = "John Wick"
         }
         movieLog();
         break;
@@ -53,8 +53,8 @@ switch (command) {
 
 //create function for twitter command
 function twitterLog() {
-    var params = { screen_name: 'JerneTV', count: 20 };
-    client.get('statuses/user_timeline', params, function(error, tweets, response) {
+    var params = { screen_name: 'JerneTV', count: 4 };
+    client.get('statuses/user_timeline', params, function (error, tweets, response) {
         if (!error) {
             for (i = 0; i < tweets.length; i++) {
                 console.log("\nTweet: " + tweets[i].text);
@@ -72,7 +72,7 @@ function twitterLog() {
 
 //create function for spotify command 
 function spotifyLog(song) {
-    spotify.search({ type: 'track', query: song }, function(err, data) {
+    spotify.search({ type: 'track', query: song }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         } else {
@@ -92,7 +92,7 @@ function spotifyLog(song) {
 //create function for movie command 
 function movieLog() {
     // use request package to grab data from omd api
-    request("http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&tomatoes=true&apikey=40e9cece", function(error, response, body) {
+    request("http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&tomatoes=true&apikey=40e9cece", function (error, response, body) {
 
         // if the request was successful 
         if (!error && response.statusCode === 200) {
@@ -116,7 +116,7 @@ function movieLog() {
 
 function addLog() {
     //run readFile and store the read information into the variable "data"
-    fs.readFile("random.txt", "utf8", function(err, data) {
+    fs.readFile("random.txt", "utf8", function (err, data) {
         if (err) {
             return console.log(err);
         } else {
