@@ -12,7 +12,6 @@ npm install request
 Liri can accept 5 commands as of right now (More will be added soon)
 
 ```
-
 commands
 spotify-this-song
 my-tweets
