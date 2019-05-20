@@ -24,7 +24,7 @@ Use `node liri.js commands` to see the commands that you can use in the Liri Bot
 
 ## Spotify Search ##
 
-The `spotify-this-song` Will log the artist(s), the name of the track, the URL for a preview on Spotify, and the album.
+The `spotify-this-song` command will log the artist(s), the name of the track, the URL for a preview on Spotify, and the album.
 
 Example Use Case: `node liri.js spotify-this-song Billie Jean`
 
