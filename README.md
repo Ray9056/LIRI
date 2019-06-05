@@ -3,9 +3,7 @@
 ## Step One (Install Packages!) ##
 
 ```
-npm install twitter
-npm install node-spotify-api
-npm install request
+npm install
 ```
 ## Step Two (Check out the Commands!) ##
 
