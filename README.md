@@ -7,10 +7,10 @@ The LIRI app uses Node.js in the command line of your computer and has dependenc
 
 The app features 4 different features using the node liri.js [command-here] syntax. Below are the command types...
 
-my-tweets returns your Twitter account's 20 most recent tweets using the Twitter API.
-spotify-this-song [song-title-here] returns the artist, album, and preview URL for a specific song using the Spotify API.
-movie-this [movie-title-here] returns the year, rating, plot summary, reviews of a specific movie using the IMDb API.
-do-what-it-says returns the result of a "random" result by reading the random.txt file and performing the command written in that file. This command can be changed to any one of the 3 types listed above.
+* my-tweets returns your Twitter account's 20 most recent tweets using the Twitter API.
+* spotify-this-song [song-title-here] returns the artist, album, and preview URL for a specific song using the Spotify API.
+* movie-this [movie-title-here] returns the year, rating, plot summary, reviews of a specific movie using the IMDb API.
+* do-what-it-says returns the result of a "random" result by reading the random.txt file and performing the command written in that file. This command can be changed to any one of the 3 types listed above.
 
 ## Step Two (Check out the Commands!) ##
 
