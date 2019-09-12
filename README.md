@@ -57,3 +57,6 @@ The `do-what-it-says` command will read the `random.txt` file and run the comman
 Example Use Case: `node liri.js do-what-it-says` 
 
 [![Image from Gyazo](https://i.gyazo.com/f57d908a1ed20db4bb52b24109203851.gif)](https://gyazo.com/f57d908a1ed20db4bb52b24109203851)
+
+Copyright 2019 © [Suraj Patel](https://jernical.github.io/Suraj-Patel/)
+
