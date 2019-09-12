@@ -42,13 +42,19 @@ The `my-tweets` command will log the 4 most recent tweets from a twitter account
 
 Example Use Case: `node liri.js my-tweets`
 
+[![Image from Gyazo](https://i.gyazo.com/5c75bd447be1e92751dc7ad0325a61ce.gif)](https://gyazo.com/5c75bd447be1e92751dc7ad0325a61ce)
+
 ## Movie Search ##
 
 The `movie-this` command will log the title, the release year, the IMDB rating, the Rotten Tomatoes rating, the country of origin, the language, a brief plot snippet, and the actors.
 
 Example Use Case: `node liri.js movie-this John Wick`
 
+[![Image from Gyazo](https://i.gyazo.com/4feb7d6b10eab3b7a4e6404f74fc3811.gif)](https://gyazo.com/4feb7d6b10eab3b7a4e6404f74fc3811)
+
 ## Random Command ##
 The `do-what-it-says` command will read the `random.txt` file and run the commands on each line, and log their output in the order they're listed in the file.
 
 Example Use Case: `node liri.js do-what-it-says` 
+
+[![Image from Gyazo](https://i.gyazo.com/f57d908a1ed20db4bb52b24109203851.gif)](https://gyazo.com/f57d908a1ed20db4bb52b24109203851)
