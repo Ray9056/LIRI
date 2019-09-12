@@ -34,6 +34,8 @@ The `spotify-this-song` command will log the artist(s), the name of the track, t
 
 Example Use Case: `node liri.js spotify-this-song Billie Jean`
 
+[![Image from Gyazo](https://i.gyazo.com/1fc9f0276df4e9625d98b059bbe1822d.gif)](https://gyazo.com/1fc9f0276df4e9625d98b059bbe1822d)
+
 ## Tweet Logs ##
 
 The `my-tweets` command will log the 4 most recent tweets from a twitter account. Each tweet's content and the time it was created are logged.

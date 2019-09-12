@@ -24,10 +24,10 @@
     "twitter": "^1.7.1"
   },
   "devDependencies": {},
-    "keywords": [
-        "my-tweets",
-        "spotify-this-song",
-        "movie-this",
-        "do-what-it-says"
-    ]
+  "keywords": [
+    "my-tweets",
+    "spotify-this-song",
+    "movie-this",
+    "do-what-it-says"
+  ]
 }
