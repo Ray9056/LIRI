@@ -18,11 +18,12 @@ Unfortunately, since this is a command line application, it must be cloned down 
 
 After the node packages, are installed...
 
-You will need to set up the Twitter API (if you do not wish to demo the my-tweets command, you can skip this part)
-You will need to get API keys for Twitter. Please refer to the [Twitter Apps page](https://developer.twitter.com/en/apps) to get a consumer_key, consumer_secret, access_token_key, and access_token_secret. You can also see the [npm page](https://www.npmjs.com/package/twitter) for more information.
-After you get the API keys, open the keys.js file and paste them into the correpsonding locations in the exports.twitterKeys object.
-Finally, you can open the liri.js file and change the myTwitterUserName variable to your twitter handle.
-Note that the Spotify API and IMDb do not need special keys, so you can run the app with minimal setup if you wish to skip over the Twitter API functionality.
+* You will need to set up the Twitter API (if you do not wish to demo the my-tweets command, you can skip this part)
+  * You will need to get API keys for Twitter. Please refer to the [Twitter Apps page](https://developer.twitter.com/en/apps) to get a consumer_key, consumer_secret, access_token_key, and access_token_secret. You can also see the [npm page](https://www.npmjs.com/package/twitter) for more information.
+  * After you get the API keys, open the keys.js file and paste them into the correpsonding locations in the exports.twitterKeys object.
+  * Finally, you can open the liri.js file and change the myTwitterUserName variable to your twitter handle.
+* Note that the Spotify API and IMDb do not need special keys, so you can run the app with minimal setup if you wish to skip over the Twitter API functionality.
+
 To run the app, simply use the node liri.js [command-here] format discussed above. Please refer to the screenshots for specific examples. Be sure that you cd into the liri-node-app folder before running the commands.
 
 # Command Examples
