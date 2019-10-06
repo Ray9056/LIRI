@@ -1,4 +1,4 @@
-# LIRI-Bot
+# LIRI-Bot CLI
 
 As the name suggests, LIRI is analagous to the iPhone's SIRI assistant, but rather than using speech, LIRI is controlled through written text.
 
