@@ -53,7 +53,10 @@ switch (command) {
 
 //create function for twitter command
 function twitterLog() {
-    var params = { screen_name: 'JerneTV', count: 4 };
+    var params = {
+        screen_name: 'JerneTV',
+        count: 4
+    };
     client.get('statuses/user_timeline', params, function (error, tweets, response) {
         if (!error) {
             for (i = 0; i < tweets.length; i++) {
@@ -72,7 +75,10 @@ function twitterLog() {
 
 //create function for spotify command 
 function spotifyLog(song) {
-    spotify.search({ type: 'track', query: song }, function (err, data) {
+    spotify.search({
+        type: 'track',
+        query: song
+    }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         } else {
