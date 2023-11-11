@@ -58,4 +58,4 @@ Example Use Case: `node liri.js do-what-it-says`
 
 [![Image from Gyazo](https://i.gyazo.com/f57d908a1ed20db4bb52b24109203851.gif)](https://gyazo.com/f57d908a1ed20db4bb52b24109203851)
 
-Copyright © 2019 [Suraj Patel](https://jernical.github.io/Suraj-Patel/)
+Copyright © 2019 [Suraj Patel
